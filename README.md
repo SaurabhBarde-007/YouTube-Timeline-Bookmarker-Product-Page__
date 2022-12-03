@@ -20,7 +20,7 @@
   
   # [DEMO LINK](https://yttb.netlify.app/)
 
-## [Extension Code Link](https://github.com/Sriver27/YouTube-Timeline-Bookmarker)
+
 
 </div>
 
@@ -31,16 +31,6 @@
   </tr>
   
 </table>
-
----
-
-# How to use? 👀
-
-
-
-https://user-images.githubusercontent.com/89961974/187049658-09f1b5f9-466f-45a8-ae3f-4c9933aef70b.mov
-
-
 
 ---
 
