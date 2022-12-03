@@ -17,8 +17,7 @@
   
   <div align = "center">
 
-  
-  # [DEMO LINK](https://yttb.netlify.app/)
+
 
 
 
